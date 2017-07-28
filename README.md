@@ -1,6 +1,8 @@
 # AMP
 Assessing Phylogenetic Model Fit with Posterior Prediction
 
+![alt text](https://raw.githubusercontent.com/jembrown/amp/d2d754f85c9ce04871fe218d8a336a38f82360a1/amp_logo.gif "AMP logo")
+
 AMP: **A**ssessing phylogenetic **M**odel fit with **P**osterior prediction
 
 AMP is software for assessing phylogenetic model fit through the use of posterior predictive simulation and inference-based test statistics (or quantities). It is written in python and runs from the command line.
